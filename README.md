@@ -1,7 +1,7 @@
 👋 Olá, sou @Vitorztt
 - 👀 Estou interessado em programação 💻
 - 🌱 Atualmente estou aprendendo python ✅
-- ⚡ Curiosidade: 
+- ⚡ Curiosidades: 
 - Gosto de carros 🏎️
 - Academia 💪🏻
 - Desenvolvimento pessoal🎯
